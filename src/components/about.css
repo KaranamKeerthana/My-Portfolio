@@ -1,0 +1,350 @@
+.body{
+    background-color: black;
+    color: white;
+    font-family:  "Raleway", sans-serif;
+}
+.topnav {
+    overflow: hidden;
+    background-color: black;
+    margin-top: 20px;
+  }
+  .u{
+    border-bottom: 2px solid rgb(82, 188, 230);  
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    padding: 8px 8px ;
+    text-decoration: none;
+    margin-left: 60px;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    border-bottom: 2px solid rgb(82, 188, 230); 
+  }
+  
+  .topnav a.active {
+    background-color: black;
+    color:  rgb(61, 169, 211);
+    font-size: 30px;
+  }
+  
+  .topnav-right {
+    float: right;
+    
+  }
+  
+  .card1{
+      float: left;
+  }
+  .card2{
+      float: right;
+  }
+  .card3{
+      margin-left: 50px;
+  }
+  .card4{
+      float: left;
+      width: 30%;
+  }
+  .card4 h1{
+      margin-top: 30px;
+      padding: 0px 0px 10px 0px;
+      color:white;
+      font-size: 30px;
+  }
+  .card4 img{
+      width: 370px;
+      height: 370px;
+  }
+  .card5{
+      float: right;
+      width:65%
+  }
+.card5 h3{
+    font-size: 40px;
+    margin-top: 10px;
+    color: rgb(71, 174, 214);
+    text-align: left;
+
+}
+.card5 p{
+    font-size: 20px;
+    text-align: left;
+}
+.card6{
+    float: left;
+}
+.card7{
+    float: right;
+}
+.card6 ul li{
+    list-style: none; 
+    font-size: 20px;
+    text-align: left;
+    padding: 10px 0px 10px 0px ;
+}
+.card6 ul li span{
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card6 ul li::before { 
+                  
+    /* \25AA is the CSS Code/unicode for a square */ 
+    content: "\25AA";   
+    color: rgb(83, 173, 209);  
+    display: inline-block;  
+    width: 2em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem; 
+    
+} 
+.card7 ul li{
+    list-style: none; 
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+}
+.card7 ul li span{
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card7 ul li::before { 
+                  
+    /* \25AA is the CSS Code/unicode for a square */ 
+    content: "\25AA";   
+    color:  rgb(83, 173, 209);  
+    display: inline-block;  
+    width: 2em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem; 
+} 
+
+p { 
+    font-size: 20px; 
+} 
+.card9 h1{
+    margin-top: 80px;
+    margin-left: 0px;
+}
+.card9 p{
+    margin-left: 5px;
+
+}
+
+.card9{
+    float: left;
+    width: 50%;
+}
+.card9 p{
+    margin-left: 0%;
+    font-size: 15px;
+}
+/* progress {
+    margin-left: 60px;
+    margin-top:0px;
+    border-radius: 10px;
+    border: 0;
+    height: 13px;
+    width: 560px;
+   
+  } */
+
+/* progress {
+    background-color: rgb(67, 159, 196);
+    border-radius: 10px;
+    border: 0;
+    height: 20px;
+    width: 200px;
+  } */
+  .card10{
+    float: right;
+    width: 50%;
+}
+.card10{
+    float: left;
+    width: 50%;
+}
+.card10 p{
+    margin-left: 0%;
+    font-size: 15px;
+}
+.card13 h1{
+    margin-top: 490px;
+    color: rgb(70, 159, 194);
+    text-align: left;
+    margin-left: 60px;
+}
+/* .mine{
+    margin-left: 60px;
+    margin-top:0px;
+    background-color: rgb(83, 154, 182);
+    border-radius: 10px;
+    border: 0;
+    height: 13px;
+    width: 560px;
+} */
+.card9 p{
+    text-align: left;
+    margin-left: 60px;
+    line-height: 0.0;
+}
+.card10 p{
+    text-align: left;
+    margin-left: 60px;
+    line-height: 0.1;
+}
+progress {
+    padding:-40px 0px 0px 0px;
+    border: none;
+    width: 550px;
+    height: 10px;
+    background: crimson;
+  }
+  
+  progress {
+    color:  rgb(70, 159, 194);
+  }
+  
+  progress::-webkit-progress-value {
+    background:  rgb(70, 159, 194);
+  }
+  
+  progress::-moz-progress-bar {
+    background: lightcolor;
+  }
+  .card14{
+      float: left;
+      width: 55%;
+  }
+  .card14 h1{
+    margin-top: 10px;
+    color: rgb(70, 159, 194);
+    text-align: left;
+    font-size: 30px;
+    margin-left: 60px;
+  }
+
+ .card14 ul li{
+     list-style-type: none;
+     display: block;
+     float: left;
+ }
+ .btn {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 4px 4px;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  .btn_img{
+      padding: 0px 20px 0px 0px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: rgb(44, 41, 41);
+  }
+.card20{
+    text-align: left;
+}
+.card20 h1{
+    margin-top: 0px;
+    text-align: left;
+    margin-left: 0px;
+    padding: 10px 0px 0px 0px;
+    color:white;
+    font-size: 30px;
+    color: rgb(66, 149, 182);
+}
+.card20 ul{
+    list-style-type: none;
+}
+.card21{
+    font-size: 15px;
+    color: rgb(240, 100, 240);
+}
+span{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 6px 8px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 0px;
+  }
+  
+  /* Darker background on mouse-over */
+span {
+    background-color: rgb(44, 41, 41);
+  }
+.card21 p{
+    font-size: 14px;
+    color: white;
+}
+.card23{
+    width: 40%;
+    float: right;
+}
+
+.card23 ul li{
+    list-style-type: none;
+    display: block;
+    float: left;
+  }
+  .card23 ul li img{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    padding: 3px 4px;
+    
+  }
+  .card23 h3{
+    text-align: left;
+    margin-left: 0px;
+    padding: 0px 0px 0px 50px;
+    color:white;
+    font-size: 30px;
+    color: rgb(66, 149, 182);
+}
+.card34{
+    margin-left: 0px;
+    margin-top: 430px;
+}
+.card32 ul li{
+    list-style-type: none;
+    display: block;
+    float: left;
+  }
+  .card32 ul li img{
+    width: 160px;
+    height: 140px;
+    margin-left: 10px;
+    padding: 3px 4px;
+    
+  }
+  .card32 h3{
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 80px;
+    padding: 0px 0px 0px 50px;
+    color:white;
+    font-size: 30px;
+    color: rgb(66, 149, 182);
+}
+.kill{
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    padding: 8px 9px;
+    margin: 30px;
+}
+.card32 li .img1{
+    width: 80px;
+    height: 70px;
+}

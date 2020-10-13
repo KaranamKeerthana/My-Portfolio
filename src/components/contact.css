@@ -1,0 +1,142 @@
+.card40{
+    text-align: left;
+    margin-left: 230px;
+}
+.topnav a.active1 {
+    background-color: black;
+    color:  rgb(61, 169, 211);
+    font-size: 30px;
+    margin-left: 223px;
+  }
+.card41{
+    float: left;
+    margin-left: 200px;
+    width: 35%;
+}
+.card41 ul{
+    list-style-type: none;
+
+}
+.card41 p{
+    text-align: start;
+}
+.card41 .btn2{
+    margin-top: 10px;
+    padding: 0px 24px;
+    background-color: rgb(48, 46, 46);
+    border: none;
+    margin-bottom: 10px;
+}
+.card41 .btn_img2{
+    width: 40px;
+    height: 40px;
+    float: left;
+}
+.card41 h3{
+    float: left;
+    margin-left: 30px;
+    margin-top: 0px;
+    color: rgb(167, 157, 157);
+}
+.card41 p{
+    margin-top: 0px;
+    color: white;
+    font-size: 20px;
+}
+.card42{
+    float: right;
+    margin-left:0px;
+    width: 35%;
+    margin-right:180px;
+}
+.card42 ul{
+    list-style-type: none;
+
+}
+.card42 .btn2{
+    margin-top: 10px;
+    padding: 0px 24px;
+    background-color: rgb(48, 46, 46);
+    border: none;
+    margin-bottom: 5px;
+}
+.card42 .btn_img2{
+    width: 40px;
+    height: 40px;
+    float: left;
+}
+.card42 h3{
+    float: left;
+    margin-left: 30px;
+    margin-top: 0px;
+    color: rgb(167, 157, 157);
+}
+.card42 p{
+    padding: 0;
+    float: left;
+    margin-top: 0px;
+    color: white;
+    font-size: 20px;
+}
+.card44{
+    width: 920px;
+    height: 500px;
+    background-color: rgb(48, 46, 46);
+    margin-top: 300px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+.card45 input{
+    width: 350px;
+    height: 50px;
+    float: left;
+    font-size: 15px;
+    color: white;
+    margin-left: 80px;
+    margin-top: 40px;
+    background-color: rgb(32, 31, 31);
+    border: none;
+}
+.card46 input{
+    width: 350px;
+    height: 50px;
+    float: left;
+    color: white;
+    background-color: rgb(32, 31, 31);
+    border:none;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+.card46 input::placeholder{
+    color: rgb(167, 157, 157);
+}
+.card47{
+    margin-top: 40px;
+}
+.card47{
+    width: 760px;
+    height: 50px;
+    color: white;
+    background-color: rgb(32, 31, 31);
+    border: none;
+}
+
+.card48{
+    margin-top: 40px;
+    width: 760px;
+    height: 150px;
+    color: white;
+    background-color: rgb(32, 31, 31);
+    border: none;
+    text-align: start;
+}
+.card49{
+    margin-top: 30px;
+   padding:6px 17px;
+   background-color: rgb(59, 180, 228) ;
+   border: none;
+   color: white;
+   font-size: 17px;
+   border-radius: 10px;
+}
+

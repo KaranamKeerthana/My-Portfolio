@@ -1,0 +1,74 @@
+body{
+  background-color: black;
+  color: white;
+  font-family:  "Raleway", sans-serif;
+}
+.u1{
+  border-bottom: 2px solid rgb(82, 188, 230); 
+  border-width: 2px;
+}
+.card1{
+  float: left;
+  width:56%;
+}
+.card2{
+  float: right;
+  width: 38%;
+}
+.card1 h1{
+  font-size: 56px;
+  margin-top: 180px;
+  margin-left: 60px ;
+}
+.card1 h3{
+  margin-left: 60px;
+  color:gray;
+  font-size: 20px;
+  padding: 0%;
+}
+.card1 ul {
+  list-style-type: none;
+  margin-left: 190px;
+  padding: 0;
+  overflow: hidden;
+  background-color:black;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+.card1 ul li {
+  float: left;
+}
+.card1 ul li img{
+  width: 55px;
+  height: 55px;
+  padding: 7px 8px;
+  
+}
+.card1 span{
+  border-bottom: 2px solid rgb(82, 188, 230); 
+  color: white;
+}
+
+.card1 ul li a {
+  font-size: 20px;
+  display: block;
+  color: gray;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.card2 img{
+  width: 350px;
+  height: 350px;
+  margin-right:300px;
+  margin-top: 135px;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+.card1 li a:hover{
+  border-bottom: 2px solid skyblue; 
+}

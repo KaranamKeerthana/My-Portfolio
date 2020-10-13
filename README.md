@@ -70,6 +70,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Here goes my resume
 
-<img src="public/images/28.png">
-<img src="public/images/29.png">
-<img src="public/images/30.png">
+<img src="public/images/31.png">
+<img src="public/images/32.png">
+<img src="public/images/33.png">

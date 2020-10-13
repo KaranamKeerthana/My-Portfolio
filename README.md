@@ -73,3 +73,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 <img src="public/images/31.png">
 <img src="public/images/32.png">
 <img src="public/images/33.png">
+<img src="public/images/34.png">
